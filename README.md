@@ -17,7 +17,7 @@ This workflow uses real-time weather, air quality, calendar events, and trail da
 
 ✅ Selects the best trail based on weather conditions and trail attributes
 
-✅ Automatically emails the full recommendation to kla01012005@gmail.com
+✅ Automatically emails the full recommendation to email.
 
 ✅ Runs manually or on a schedule (via Schedule Trigger)
 
